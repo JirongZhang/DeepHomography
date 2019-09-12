@@ -61,7 +61,7 @@ Input |Ours |SIFT+RANSAC |Unsupervised |Supervised
 ### License and Citation
 All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@inproceedings{C-A_DeepH_AAAI20,
+@inproceedings{C-A_DeepH_AAAI2020,
 author={Jirong Zhang and
                Chuan Wang and
                Shuaicheng Liu and
