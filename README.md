@@ -1,17 +1,17 @@
 
-## Code and models of [paper](https://https://arxiv.org/pdf/1909.05983.pdf). "Content-Aware Unsupervised Deep Homography Estimation"([This paper](https://https://arxiv.org/pdf/1909.05983.pdf) has been submitted to the Thirty-Fourth AAAI Conference on Artificial Intelligence)
+## Code and models of [paper](https://arxiv.org/pdf/1909.05983.pdf). "Content-Aware Unsupervised Deep Homography Estimation"([This paper](https://arxiv.org/pdf/1909.05983.pdf) has been submitted to the Thirty-Fourth AAAI Conference on Artificial Intelligence)
  By Jirong Zhang, Chuan wang, Shuaicheng Liu, Lanpeng Jia, Jue Wang, Ji Zhou
 
 
 
 
 ### Update
-- **2019.9.12**: Repository for ["Content-Aware Unsupervised Deep Homography Estimation"](https://https://arxiv.org/pdf/1909.05983.pdf).
+- **2019.9.12**: Repository for ["Content-Aware Unsupervised Deep Homography Estimation"](https://arxiv.org/pdf/1909.05983.pdf).
 
 
 
 ### Introduction
-This repository will contains all the required models and scripts for the paper  ["Content-Aware Unsupervised Deep Homography Estimation"](https://https://arxiv.org/pdf/1909.05983.pdf).
+This repository will contains all the required models and scripts for the paper  ["Content-Aware Unsupervised Deep Homography Estimation"](https://arxiv.org/pdf/1909.05983.pdf).
 
 ![](./images/model.png)
 
