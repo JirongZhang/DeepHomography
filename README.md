@@ -61,7 +61,7 @@ Input |Ours |SIFT+RANSAC |Unsupervised |Supervised
 ### License and Citation
 All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@inproceedings{C-A_DeepH,
+@article{C-A_DeepH,
 author={Jirong Zhang and
                Chuan Wang and
                Shuaicheng Liu and
@@ -69,7 +69,7 @@ author={Jirong Zhang and
                Jue Wang and
                Ji Zhou},
 title={Content-Aware Unsupervised Deep Homography Estimation},
-booktitle={arXiv},
+booktitle={arXiv preprint arXiv:1909.05983},
 year={2020}
 }
 ```
