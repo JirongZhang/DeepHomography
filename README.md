@@ -68,7 +68,8 @@ author={Jirong Zhang and
                Lanpeng Jia and
                Jue Wang and
                Ji Zhou},
-title={Content-Aware Unsupervised Deep Homography Estimation},	       
+title={Content-Aware Unsupervised Deep Homography Estimation},
+booktitle={arXiv},
 year={2020}
 }
 ```
