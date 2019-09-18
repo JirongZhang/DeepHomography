@@ -1,6 +1,6 @@
 
 ## Code and models of [paper](https://arxiv.org/pdf/1909.05983.pdf). "Content-Aware Unsupervised Deep Homography Estimation"
- By Jirong Zhang, Chuan wang, Shuaicheng Liu, Lanpeng Jia, Jue Wang, Ji Zhou
+ By Jirong Zhang, Chuan Wang, Shuaicheng Liu, Lanpeng Jia, Jue Wang, Ji Zhou
 
 
 
