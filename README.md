@@ -28,7 +28,7 @@ In this work, we propose an unsupervised approach with a new architecture for co
 
 
 ### Results of Qualitative comparison
-Input |Ours |SIFT+RANSAC |Unsupervised |Supervised
+Input |Ours |SIFT+RANSAC |Unsupervised[1] |Supervised[2]
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](images/images/0_input.gif)  |  ![](images/images/0_Ours.gif)  |  ![](images/images/0_SIFT_RANSAC.gif)  |  ![](images/images/0_Unsupervised.gif)  |  ![](images/images/0_Supervised.gif)
 ![](images/images/17_input.gif)  |  ![](images/images/17_Ours.gif)  |  ![](images/images/17_SIFT_RANSAC.gif)  |  ![](images/images/17_Unsupervised.gif)  |  ![](images/images/17_Supervised.gif)
@@ -61,22 +61,17 @@ Input |Ours |SIFT+RANSAC |Unsupervised |Supervised
 ### License and Citation
 All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@article{C-A_DeepH,
-author={Jirong Zhang and
-               Chuan Wang and
-               Shuaicheng Liu and
-               Lanpeng Jia and
-               Jue Wang and
-               Ji Zhou},
-title={Content-Aware Unsupervised Deep Homography Estimation},
-booktitle={arXiv preprint arXiv:1909.05983},
-year={2020}
+@article{zhang2019content,
+  title={Content-Aware Unsupervised Deep Homography Estimation},
+  author={Zhang, Jirong and Wang, Chuan and Liu, Shuaicheng and Jia, Lanpeng and Wang, Jue and Zhou, Ji},
+  journal={arXiv preprint arXiv:1909.05983},
+  year={2019}
 }
 ```
 
-### Reference
-  * [Deep Image Homography Estimation](https://arxiv.org/abs/1606.03798) (Supervised）
-  * [Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model](https://arxiv.org/abs/1709.03966) (UnSupervised）
+### References
+  [1] T. Nguyen, S. W. Chen, S. S. Shivakumar, C. J. Taylor, and V. Kumar. Unsupervised deep homography: A fast and robust homography estimation model. IEEE Robotics and Automation Letters, 3(3):2346–2353, 2018
+  [2] D. DeTone, T. Malisiewicz, and A. Rabinovich. Deep image homography estimation. arXiv preprint arXiv:1606.03798, 2016
   
 ### Contact
 
