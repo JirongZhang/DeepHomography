@@ -30,7 +30,7 @@ python video2img.py
 
 ## Train
 ​    Here, we provide "Oneline" model which predicts H_ab directly. In our paper, we present a "Doubleline" model that estimates H_ab and its inverse H_ba at the same time. The "Oneline" model can produce almost comparable performance as "Doubleline" model, but much easier to optimize. So, we use this version for now.   The formula can be simplified as:
-![](./images/loss.png)
+<img src="./images/loss.png" height="250" />
 
 1. Oneline train from scrach
 ```sh
