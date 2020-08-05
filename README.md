@@ -44,7 +44,7 @@ python train.py --gpus 2 --cpus 8 --lr 0.0001 --batch_size 32
 ```
 ​       With stable features have been trained from the feature extractor, i.e. At least 2 epochs, then finetuned the network with mask predictor involved, with a small learning rate. 
 ```sh
-python train.py --gpus 2 --cpus 8 --lr 0.000064 --batch_size 32 --finetune Ture
+python train.py --gpus 2 --cpus 8 --lr 0.000064 --batch_size 32 --finetune True
 ```
 If you want to try "Doubleline" version, please add another half of the loss and using getBatchHLoss() which in *utils.py* to add H loss. If you have any questions, please contact us. 
 
