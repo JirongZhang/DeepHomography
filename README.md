@@ -38,11 +38,11 @@ python train.py --gpus 2 --cpus 8 --lr 0.0001 --batch_size 32
 ```
 2. Oneline two-stage version
 
-   Please set the mask to all ones at the begining using (details in line 277-281 of resnet.py). 
+Please set the mask to all ones at the begining using (details in line 277-281 of resnet.py). 
 ```sh
 python train.py --gpus 2 --cpus 8 --lr 0.0001 --batch_size 32
 ```
-   With stable features have been trained from the feature extractor, i.e. At least 2 epochs, then finetuned the network with mask predictor involved, with a small learning rate. 
+With stable features have been trained from the feature extractor, i.e. At least 2 epochs, then finetuned the network with mask predictor involved, with a small learning rate. 
 ```sh
 python train.py --gpus 2 --cpus 8 --lr 0.000064 --batch_size 32 --finetune True
 ```
