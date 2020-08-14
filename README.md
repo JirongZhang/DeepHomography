@@ -29,8 +29,7 @@ python video2img.py
 ```
 
 ## Train
-​   Our model is designed for small baseline of real data.
-    Here, we provide "Oneline" model which predicts H_ab directly. It also uses triplet loss to optimize the network. It can produce almost comparable performance and much easier to optimize. So, we use this version for now.   The formula can be simplified as:  
+​  Our model is designed for small baseline of real data.Here, we provide "Oneline" model which predicts H_ab directly. It also uses triplet loss to optimize the network. It can produce almost comparable performance and much easier to optimize. So, we use this version for now.   The formula can be simplified as:  
 <div align=center><img src="./images/loss.png" width="350" height="50" /></div>
 
 1. Oneline train from scrach
