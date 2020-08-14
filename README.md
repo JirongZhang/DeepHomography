@@ -29,7 +29,7 @@ python video2img.py
 ```
 
 ## Train
-​  Our model is designed for small baseline of real data.Here, we provide "Oneline" model which predicts H_ab directly. It also uses triplet loss to optimize the network. It can produce almost comparable performance and much easier to optimize. So, we use this version for now.   The formula can be simplified as:  
+​Our model is designed for small baseline of real data.Here, we provide "Oneline" model which predicts H_ab directly. It also uses triplet loss to optimize the network. It can produce almost comparable performance and much easier to optimize. So, we use this version for now.   The formula can be simplified as:  
 <div align=center><img src="./images/loss.png" width="350" height="50" /></div>
 
 1. Oneline train from scrach
@@ -42,7 +42,7 @@ python train.py --gpus 2 --cpus 8 --lr 0.0001 --batch_size 32
 ```sh
 python train.py --gpus 2 --cpus 8 --lr 0.0001 --batch_size 32
 ```
-​       With stable features have been trained from the feature extractor, i.e. At least 2 epochs, then finetuned the network with mask predictor involved, with a small learning rate. 
+   With stable features have been trained from the feature extractor, i.e. At least 2 epochs, then finetuned the network with mask predictor involved, with a small learning rate. 
 ```sh
 python train.py --gpus 2 --cpus 8 --lr 0.000064 --batch_size 32 --finetune True
 ```
