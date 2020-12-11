@@ -70,11 +70,13 @@ ZHANG Jirong – zhangjirong.dgt@gmail.com or zhangjirong@std.uestc.edu.cn
 
 All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@article{zhang2019content,
-  title={Content-Aware Unsupervised Deep Homography Estimation},
-  author={Zhang, Jirong and Wang, Chuan and Liu, Shuaicheng and Jia, Lanpeng and Wang, Jue and Zhou, Ji},
-  journal={arXiv preprint arXiv:1909.05983},
-  year={2019}
+@inproceedings{zhang2020content,
+  title={Content-aware unsupervised deep homography estimation},
+  author={Zhang, Jirong and Wang, Chuan and Liu, Shuaicheng and Jia, Lanpeng and Ye, Nianjin and Wang, Jue and Zhou, Ji and Sun, Jian},
+  booktitle={European Conference on Computer Vision},
+  pages={653--669},
+  year={2020},
+  organization={Springer}
 }
 ```
 
