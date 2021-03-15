@@ -55,7 +55,7 @@ python test.py
 
 ## Release History
 * **2021.3.14**
-    * More accurate testset coordinates are released. It uses traditional feature descriptors for pre-matching, which greatly reduces the error caused by pure manual marking.
+    * The more accurate coordinates of testset are released. It uses traditional feature descriptors for pre-matching, which greatly reduces the error caused by pure manual marking.
 * **2020.8.4**
     * Sorry for waiting. We have uploaded codes and dataset. Please read our [final version of paper](https://arxiv.org/pdf/1909.05983.pdf), which complements more discussion.
 * **2020.7.3**
