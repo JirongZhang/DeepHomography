@@ -3,7 +3,7 @@ Homography estimation is a basic image alignment method in many applications. It
 [introduction](./introduction.md)
 
 |        | RE     | LT     | LL     | SF     | LF     | Avg     |
-| ---------- | :-----------:  | :-----------: | :-----------: | :-----------: | :-----------: |
+| :---------- | :-----------:  | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Coordinate     | 1.81     | 1.90   | 1.94    | 1.75    | 1.72    | 1.82    |
 | [Coordinate-v2](https://github.com/JirongZhang/DeepHomography/tree/master/Data/Coordinate-v2)     | 0.73     | 1.01    | 1.03   | 0.92    | 0.70    | 0.88    |
 
